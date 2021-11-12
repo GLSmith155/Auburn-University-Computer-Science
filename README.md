@@ -1,2 +1,2 @@
 # Auburn-University-Computer-Science
-The repository for my Auburn University coursework.
+The repository for Auburn University coursework I choose to share.
